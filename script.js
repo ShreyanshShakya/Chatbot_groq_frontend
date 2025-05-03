@@ -3,7 +3,7 @@ const userInput = document.getElementById("user-input");
 const sendButton = document.getElementById("send-button");
 
 // Backend API URL
-const API_URL = "https://your-app.onrender.com/chat";
+const API_URL = "https://chatbot-groq-g433.onrender.com/chat";
 
 // Function to add a message to the chat box
 function addMessage(content, sender) {
